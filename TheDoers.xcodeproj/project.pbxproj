@@ -85,6 +85,7 @@
 		777AB0712D5207F800248585 = {
 			isa = PBXGroup;
 			children = (
+				776F81E22D689B6600AB4838 /* README.md */,
 				777AB07C2D5207F800248585 /* TheDoers */,
 				777AB07B2D5207F800248585 /* Products */,
 			);
@@ -161,7 +162,6 @@
 		777AB0992D520A8000248585 /* Other */ = {
 			isa = PBXGroup;
 			children = (
-				776F81E22D689B6600AB4838 /* README.md */,
 				777AB0932D5209A600248585 /* GoogleService-Info.plist */,
 				777AB0812D5207F900248585 /* Assets.xcassets */,
 				777AB07D2D5207F800248585 /* TheDoersApp.swift */,
